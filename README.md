@@ -81,16 +81,16 @@ How to run my code?
   pip install python-pptx langchain langchain-openai faiss-cpu sentence-transformers
 2. Prepare the project folders
   Place your files in the following structure:
-      project/
+      project
 
-      input/
+      input
          input.pptx
       
-      templates/
+      templates
          template1.pptx
          template2.pptx
       
-      output/
+      output
       
       content_extraction.py
       template_analysis.py
